@@ -5,4 +5,7 @@ st.text('🥣Omega 3 & Blueberry Oatmeal')
 st.text('🥗Kale Spinach & Rocket smoothie')
 st.text('🐔Hard-Boiled Free-Range Egg')
 st.text('🥑🍞Avocado Toast')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
  
